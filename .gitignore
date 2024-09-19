@@ -1,0 +1,5 @@
+   # Virtual Environment
+   notion_medlog_venv/
+
+   # .env file
+   .env
